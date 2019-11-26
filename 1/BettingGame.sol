@@ -1,7 +1,5 @@
 pragma solidity ^0.4.22;
 
-// File: contracts/SafeMath.sol
-
 /**
  * @title SafeMath
  * @dev Unsigned math operations with safety checks that revert on error
@@ -65,8 +63,6 @@ library SafeMath {
         return a % b;
     }
 }
-
-// File: contracts/BettingGame.sol
 
 contract BettingGame {
     
