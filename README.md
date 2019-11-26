@@ -1,5 +1,5 @@
-# workshops
-
+# Dev Nights workshop - Spring 2019 Cohort
+https://www.uscnights.dev/
 
 ## Ethereum Wallet(MetaMask)
 https://metamask.io/
@@ -23,4 +23,3 @@ https://github.com/ethereum/remix
 
 ## Smart Contract and Solidity Programming Language
 https://solidity.readthedocs.io/en/v0.5.6/introduction-to-smart-contracts.html
-
